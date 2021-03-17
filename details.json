@@ -1,0 +1,15 @@
+{
+    "product": "https://www.beerwulf.com/en-gb/p/beercases/6-birra-moretti-blade-keg",
+    "email": "example@gmail.com",
+    "phone": "07834967416",
+    "fname": "John",
+    "lname": "Smith",
+    "road": "11 Example Road",
+    "city": "London",
+    "postcode": "SE1 1KF",
+    "cardNumber": "4699424994838303",
+    "cardName": "John Smith",
+    "expiryMonth": "09",
+    "expiryYear": "2021",
+    "cvc": "123"
+}
